@@ -1,0 +1,13 @@
+D:\MyProject\DemoPicture\bin\Debug\DemoPicture.exe.config
+D:\MyProject\DemoPicture\bin\Debug\DemoPicture.exe
+D:\MyProject\DemoPicture\bin\Debug\DemoPicture.pdb
+D:\MyProject\DemoPicture\obj\Debug\DemoPicture.csprojAssemblyReference.cache
+D:\MyProject\DemoPicture\obj\Debug\DemoPicture.FrmMain.resources
+D:\MyProject\DemoPicture\obj\Debug\DemoPicture.Properties.Resources.resources
+D:\MyProject\DemoPicture\obj\Debug\DemoPicture.csproj.GenerateResource.cache
+D:\MyProject\DemoPicture\obj\Debug\DemoPicture.csproj.CoreCompileInputs.cache
+D:\MyProject\DemoPicture\obj\Debug\DemoPicture.exe
+D:\MyProject\DemoPicture\obj\Debug\DemoPicture.pdb
+C:\Users\ZMM\Desktop\DemoPicture\DemoPicture\bin\Debug\DemoPicture.exe.config
+C:\Users\ZMM\Desktop\DemoPicture\DemoPicture\obj\Debug\DemoPicture.exe
+C:\Users\ZMM\Desktop\DemoPicture\DemoPicture\obj\Debug\DemoPicture.pdb
